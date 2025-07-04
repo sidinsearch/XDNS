@@ -5,7 +5,7 @@
 
 xDNS is a private DNS server with an integrated control panel that provides complete control over your network's DNS traffic. It allows you to monitor, block, and redirect DNS requests with an intuitive user interface designed for both security professionals and privacy-conscious users.
 
-![Xdns - visual selection (1)](https://github.com/user-attachments/assets/80883633-a7aa-48df-bd99-a133f2b7092d)
+![Xdns - visual selection (1)](https://github.com/user-attachments/assets/bd0332cf-95d6-4e5e-ac70-9ba92249217d)
 
 
 
