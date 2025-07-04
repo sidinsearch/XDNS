@@ -1,14 +1,13 @@
 # xDNS - Private DNS Server & Control Panel
 
-<div align="center">
-  <h3>A powerful DNS server with advanced cybersecurity controls</h3>
-</div>
 
 ## 🛡️ Overview
 
 xDNS is a private DNS server with an integrated control panel that provides complete control over your network's DNS traffic. It allows you to monitor, block, and redirect DNS requests with an intuitive user interface designed for both security professionals and privacy-conscious users.
 
-![xDNS Dashboard](1.jpg)
+![Xdns - visual selection (1)](https://github.com/user-attachments/assets/80883633-a7aa-48df-bd99-a133f2b7092d)
+
+
 
 ## ✨ Features
 
@@ -29,8 +28,11 @@ xDNS is a private DNS server with an integrated control panel that provides comp
 
 ## 🖥️ Screenshots
 
-### DNS Spoofing Interface
-![DNS Spoofing](2.jpg)
+### xDNS Interface
+![xDNS Interface](1.jpg)
+
+### DNS Query Logs
+![xDNS Query Logs](2.jpg)
 
 ### Connected Devices & Live Terminal
 ![Connected Devices](3.jpg)
